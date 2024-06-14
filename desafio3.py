@@ -10,7 +10,7 @@ def contar_vocales(cadena: str)-> int:
     
     for i in cadena:
     
-        if i in cadena:
+        if i in vocales:
             contador += 1
     
     return contador     
