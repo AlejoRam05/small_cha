@@ -27,8 +27,3 @@ lista_ordenada = ordenar()
 print("La lista ordenada de forma acendente: ", lista_ordenada)
 
 
-# lista = [int(input("Ingrese los números: "))]
-
-# lista_ordenada = sorted(lista)
-
-# print(lista), print(lista_ordenada)
