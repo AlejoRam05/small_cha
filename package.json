@@ -2,9 +2,9 @@
   "name": "minichallenge",
   "version": "1.0.0",
   "description": "",
-  "main": "fundamentos.js",
+  "main": "miniserver.js",
   "scripts": {
-    "start": "miniserver.js",
+    "start": "node miniserver.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

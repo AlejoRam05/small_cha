@@ -10,7 +10,7 @@ app.use(json())
 
 //callback
 const callback = (req, res) => {
-    res.status(200).json('Hello World')
+    res.status(200).json({'saludo':'Hello World'})
 }
 
 app.get('/', callback)
